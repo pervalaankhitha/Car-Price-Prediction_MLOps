@@ -1,0 +1,455 @@
+Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Market Category,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP (Manufacturer's suggested retail Price)
+BMW,1 Series M,2011,premium unleaded (required),335,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,19,3916,46135
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,40650
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,36350
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,29450
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,34500
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,31200
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,26,17,3916,44100
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39300
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,36900
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,27,18,3916,37200
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39600
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,44400
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,19,3916,37200
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,25,18,3916,48250
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,43550
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,22,17,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,27495
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,24995
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,35,26,819,28195
+Mercedes-Benz,190-Class,1991,regular unleaded,130,4,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1991,regular unleaded,158,6,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,1992,regular unleaded,158,6,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,1992,regular unleaded,130,4,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1993,regular unleaded,130,4,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1993,regular unleaded,158,6,MANUAL,rear wheel drive,4,Luxury,Compact,Sedan,25,17,617,2000
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,35,23,3916,32850
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Compact,Convertible,34,23,3916,38650
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,31,20,3916,48750
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Compact,Coupe,35,23,3916,34850
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Compact,Convertible,34,22,3916,40650
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,31,20,3916,44150
+BMW,2 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,34,22,3916,32850
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,30,20,3916,46150
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,30,20,3916,50750
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,31,21,3916,46450
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,32,21,3916,49050
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,32,21,3916,51050
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,32,21,3916,44450
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,34,23,3916,38950
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,35,24,3916,33150
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Compact,Coupe,33,24,3916,35150
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Luxury,Compact,Convertible,33,23,3916,40950
+Audi,200,1990,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,20,16,3105,2000
+Audi,200,1990,regular unleaded,162,5,MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,22,15,3105,2000
+Audi,200,1990,regular unleaded,162,5,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,23,15,3105,2000
+Audi,200,1991,regular unleaded,217,5,MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,22,16,3105,2000
+Audi,200,1991,regular unleaded,217,5,MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Wagon,22,16,3105,2000
+Audi,200,1991,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,20,16,3105,2000
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,25170
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,23950
+Chrysler,200,2015,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,29,18,1013,29370
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,36,23,1013,26625
+Chrysler,200,2015,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,29,18,1013,30825
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,27795
+Chrysler,200,2016,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,29,18,1013,31785
+Chrysler,200,2016,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,29,18,1013,29905
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,22490
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,27570
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,25690
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,24490
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,28,18,1013,29905
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,28,18,1013,31785
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,26685
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,22490
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,25690
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,"Flex Fuel,Performance",Midsize,Sedan,28,18,1013,30900
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,27795
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Flex Fuel,Midsize,Sedan,36,23,1013,24490
+Nissan,200SX,1996,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,36,26,2009,2000
+Nissan,200SX,1996,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,36,26,2009,2000
+Nissan,200SX,1996,regular unleaded,140,4,MANUAL,front wheel drive,2,Performance,Compact,Coupe,29,21,2009,2000
+Nissan,200SX,1997,regular unleaded,140,4,MANUAL,front wheel drive,2,Performance,Compact,Coupe,29,21,2009,2000
+Nissan,200SX,1997,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1997,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,115,4,MANUAL,front wheel drive,2,N/A,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,140,4,MANUAL,front wheel drive,2,Performance,Compact,Coupe,28,20,2009,2073
+Nissan,240SX,1996,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,26,19,2009,3713
+Nissan,240SX,1996,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,26,19,2009,3520
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,26,19,2009,3910
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,26,19,2009,4182
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,26,19,2009,4107
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,25,20,2009,4299
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,25,20,2009,4693
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,25,20,2009,4107
+Volvo,240,1991,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Wagon,26,19,870,2000
+Volvo,240,1991,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Wagon,23,18,870,2000
+Volvo,240,1991,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Sedan,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Sedan,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Wagon,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Sedan,26,19,870,2000
+Volvo,240,1993,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Sedan,26,19,870,2000
+Volvo,240,1993,regular unleaded,114,4,MANUAL,rear wheel drive,4,Luxury,Midsize,Wagon,25,18,870,2000
+Mazda,2,2012,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,16020
+Mazda,2,2012,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,14530
+Mazda,2,2012,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,16860
+Mazda,2,2012,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,15370
+Mazda,2,2013,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,17050
+Mazda,2,2013,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,15560
+Mazda,2,2013,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,16210
+Mazda,2,2013,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,14720
+Mazda,2,2014,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,17050
+Mazda,2,2014,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,34,28,586,15560
+Mazda,2,2014,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,16210
+Mazda,2,2014,regular unleaded,100,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,35,29,586,14720
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,47250
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,22,3916,41850
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,22,3916,41850
+BMW,3 Series Gran Turismo,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,34,22,3916,43000
+BMW,3 Series Gran Turismo,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,49200
+BMW,3 Series Gran Turismo,2017,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,49650
+BMW,3 Series Gran Turismo,2017,premium unleaded (required),248,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,23,3916,43950
+BMW,3 Series,2015,premium unleaded (required),241,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,33,22,3916,41950
+BMW,3 Series,2015,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance,Hybrid",Midsize,Sedan,33,25,3916,50150
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,35,23,3916,37500
+BMW,3 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,43750
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,45,32,3916,39000
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,39500
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,39500
+BMW,3 Series,2015,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,34950
+BMW,3 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3916,45750
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,43,31,3916,43450
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,35,23,3916,37500
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,43,31,3916,41000
+BMW,3 Series,2015,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,36,24,3916,32950
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,40,30,3916,41850
+BMW,3 Series,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,33,22,3916,47800
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,42,32,3916,39850
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,22,3916,38350
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,22,3916,40350
+BMW,3 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,22,3916,38350
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,34,22,3916,42650
+BMW,3 Series,2016,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,36,24,3916,33150
+BMW,3 Series,2016,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,35150
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,40,30,3916,44150
+BMW,3 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,33,22,3916,45800
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,23,3916,38750
+BMW,3 Series,2017,premium unleaded (recommended),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,35450
+BMW,3 Series,2017,premium unleaded (recommended),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,33450
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,23,3916,40750
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,40,30,3916,42250
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,33,23,3916,42950
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,42,32,3916,40250
+BMW,3 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,21,3916,49900
+BMW,3 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,47900
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,40,30,3916,44450
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,19,15,617,2232
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Wagon,20,15,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,158,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,22,17,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,20,15,617,2105
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,18,15,617,2199
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,22,16,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,19,15,617,2124
+Mercedes-Benz,300-Class,1991,regular unleaded,228,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,21,14,617,3552
+Mercedes-Benz,300-Class,1991,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Coupe,22,15,617,2179
+Mercedes-Benz,300-Class,1991,diesel,121,5,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,30,23,617,2000
+Mercedes-Benz,300-Class,1992,diesel,121,5,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,29,23,617,2000
+Mercedes-Benz,300-Class,1992,regular unleaded,228,6,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,17,14,617,2377
+Mercedes-Benz,300-Class,1992,regular unleaded,228,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,21,15,617,3814
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,19,15,617,2207
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Wagon,20,15,617,2000
+Mercedes-Benz,300-Class,1992,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Coupe,21,15,617,2248
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,22,16,617,2065
+Mercedes-Benz,300-Class,1992,diesel,148,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,22,18,617,2547
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,18,15,617,2282
+Mercedes-Benz,300-Class,1992,regular unleaded,158,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,23,18,617,2000
+Mercedes-Benz,300-Class,1993,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,19,15,617,2544
+Mercedes-Benz,300-Class,1993,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Coupe,22,17,617,2397
+Mercedes-Benz,300-Class,1993,diesel,121,5,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,30,23,617,2000
+Mercedes-Benz,300-Class,1993,regular unleaded,228,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,21,14,617,4174
+Mercedes-Benz,300-Class,1993,regular unleaded,217,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,22,17,617,2187
+Mercedes-Benz,300-Class,1993,diesel,148,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,22,18,617,2729
+Mercedes-Benz,300-Class,1993,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,19,15,617,2433
+Mercedes-Benz,300-Class,1993,regular unleaded,194,6,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,23,17,617,2247
+Mercedes-Benz,300-Class,1993,regular unleaded,228,6,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,18,14,617,2540
+Mitsubishi,3000GT,1997,regular unleaded,218,6,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,23,17,436,3941
+Mitsubishi,3000GT,1997,regular unleaded,161,6,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,22,17,436,3295
+Mitsubishi,3000GT,1997,regular unleaded,320,6,MANUAL,all wheel drive,2,"Hatchback,Factory Tuner,Performance",Compact,2dr Hatchback,22,16,436,6008
+Mitsubishi,3000GT,1998,regular unleaded,320,6,MANUAL,all wheel drive,2,"Hatchback,Factory Tuner,Performance",Compact,2dr Hatchback,22,16,436,6710
+Mitsubishi,3000GT,1998,regular unleaded,161,6,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,22,17,436,3701
+Mitsubishi,3000GT,1998,regular unleaded,218,6,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,23,17,436,4671
+Mitsubishi,3000GT,1999,regular unleaded,218,6,MANUAL,front wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,23,17,436,5306
+Mitsubishi,3000GT,1999,regular unleaded,320,6,MANUAL,all wheel drive,2,"Hatchback,Factory Tuner,Performance",Compact,2dr Hatchback,22,16,436,7600
+Mitsubishi,3000GT,1999,regular unleaded,161,6,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,22,17,436,4090
+Chrysler,300,2015,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,37570
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,31,19,1013,31695
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,31,19,1013,38070
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,44895
+Chrysler,300,2015,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,31,19,1013,35070
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,31,19,1013,42395
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,34195
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,40570
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,38095
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,31,19,1013,35595
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,45190
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,31,19,1013,32260
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,37755
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,41055
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,31,19,1013,36090
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,31,19,1013,42690
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,31,19,1013,38555
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,31,19,1013,35255
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,38590
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,34760
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,41135
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,45270
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,38670
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,30,19,1013,38635
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,30,19,1013,36170
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,38175
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,N/A,Large,Sedan,30,19,1013,32340
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,30,19,1013,42770
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,N/A,Large,Sedan,27,18,1013,34840
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Performance,Large,Sedan,30,19,1013,35675
+Chrysler,300M,2002,premium unleaded (required),250,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,24,16,1013,32065
+Chrysler,300M,2002,premium unleaded (required),250,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,24,16,1013,28540
+Chrysler,300M,2003,premium unleaded (required),255,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,25,16,1013,32315
+Chrysler,300M,2003,regular unleaded,250,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,25,16,1013,28885
+Chrysler,300M,2004,regular unleaded,250,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,25,16,1013,29185
+Chrysler,300M,2004,premium unleaded (required),255,6,AUTOMATIC,front wheel drive,4,Performance,Large,Sedan,25,16,1013,32615
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,22,16,2009,2847
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,16,2009,2488
+Nissan,300ZX,1994,regular unleaded,300,6,MANUAL,rear wheel drive,2,"Hatchback,Performance",Compact,2dr Hatchback,22,16,2009,2683
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,16,2009,2553
+Nissan,300ZX,1995,regular unleaded,300,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,16,2009,3049
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,17,2009,2774
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,17,2009,2702
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,22,17,2009,3101
+Nissan,300ZX,1996,regular unleaded,300,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,16,2009,3510
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,17,2009,3107
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Convertible,22,17,2009,3624
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Performance,Compact,Coupe,22,17,2009,3185
+Mazda,323,1992,regular unleaded,82,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1992,regular unleaded,82,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1993,regular unleaded,82,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1993,regular unleaded,82,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,32,24,586,2000
+Mazda,323,1994,regular unleaded,82,4,MANUAL,front wheel drive,2,Hatchback,Compact,2dr Hatchback,33,25,586,2000
+Mercedes-Benz,350-Class,1990,diesel,134,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,23,19,617,2144
+Mercedes-Benz,350-Class,1990,diesel,134,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,23,19,617,2098
+Mercedes-Benz,350-Class,1991,diesel,134,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,23,19,617,2178
+Mercedes-Benz,350-Class,1991,diesel,134,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,23,19,617,2311
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,36550
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,41250
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,30600
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,37100
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,27900
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,32700
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,40250
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,35550
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,36100
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,33200
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,37900
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,29600
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,25,18,2009,38070
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,38900
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,33840
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,38630
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,39630
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,37740
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,41980
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,36280
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,36740
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,40980
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,25,18,2009,38680
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,28510
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,30210
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,24,17,2009,31210
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,25,18,2009,33340
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,37280
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,41570
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,36870
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,42570
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,37870
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,39220
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,23,17,2009,40220
+Ferrari,360,2002,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,160829
+Ferrari,360,2002,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,140615
+Ferrari,360,2002,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,150694
+Ferrari,360,2002,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,170829
+Ferrari,360,2003,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,165986
+Ferrari,360,2003,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,154090
+Ferrari,360,2003,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,143860
+Ferrari,360,2003,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,176287
+Ferrari,360,2004,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,157767
+Ferrari,360,2004,premium unleaded (required),425,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,Factory Tuner,High-Performance",Compact,Coupe,15,10,2774,187124
+Ferrari,360,2004,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Coupe,15,10,2774,147332
+Ferrari,360,2004,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,169900
+Ferrari,360,2004,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,"Exotic,High-Performance",Compact,Convertible,15,10,2774,180408
+Nissan,370Z,2015,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,31290
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2015,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2016,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2016,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,31290
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2017,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2017,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,High-Performance,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2017,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2017,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,High-Performance",Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,High-Performance,Compact,Coupe,26,19,2009,31290
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Performance,Compact,Sedan,37,25,586,25045
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Performance,Compact,Sedan,39,28,586,26095
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,23795
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,19595
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,18445
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Performance,Compact,Sedan,37,25,586,23845
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,37,27,586,25395
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Performance,Compact,Sedan,39,28,586,24895
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,35,26,586,25545
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,24295
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,19495
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,20095
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,19995
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,21145
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,23245
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,16945
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,35,26,586,24345
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,20645
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,18945
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,37,27,586,26595
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,22745
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,17995
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,22545
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,21095
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,37,27,586,25495
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,20745
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,24295
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,23595
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,21795
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,17845
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,37,27,586,26495
+Mazda,3,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,Performance,Compact,Sedan,37,25,586,24745
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Compact,Sedan,41,30,586,18895
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,30,586,19595
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,23245
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,40,29,586,18545
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Performance,Compact,Sedan,39,28,586,25795
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Compact,Sedan,41,29,586,20045
+Mazda,3,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,35,26,586,25445
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Performance,Compact,Sedan,39,28,586,24795
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,28,586,21495
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,37,27,586,17845
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Performance,Midsize,Sedan,34,25,586,23145
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Performance,Midsize,Sedan,36,27,586,24195
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,28,586,20145
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,35,26,586,24945
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,33,25,586,23895
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,27,586,19095
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,35,26,586,23445
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,N/A,Midsize,Sedan,37,28,586,18895
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Hatchback,Compact,4dr Hatchback,37,28,586,22245
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,"Hatchback,Performance",Compact,4dr Hatchback,33,25,586,22395
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,N/A,Midsize,Sedan,37,27,586,20445
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,42300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,40300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,40300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,42300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,32,21,3916,45800
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,20,3916,47800
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,22,3916,43650
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3916,49950
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,20,3916,47950
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,41650
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,48300
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,21,3916,50300
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,23,3916,43950
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,23,3916,41950
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,56900
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,32,21,3916,46250
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,50750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,33,22,3916,42750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,48750
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,30,20,3916,48250
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,33,22,3916,42750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,50750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,40750
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,54900
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,48750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,40750
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,52000
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,50000
+BMW,4 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,34,22,3916,41850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,30,20,3916,50150
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,41850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,58950
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,34,22,3916,43850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,31,20,3916,48150
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,56950
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,50300
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,32,22,3916,52300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,31,21,3916,50500
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,33,23,3916,44150
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,34,23,3916,42150
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,30,20,3916,59300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,21,3916,57300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsiz
